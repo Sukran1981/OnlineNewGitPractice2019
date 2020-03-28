@@ -1,1 +1,6 @@
-red
+
+red----->your changes
+
+black--------->your teammate changes
+pink
+
