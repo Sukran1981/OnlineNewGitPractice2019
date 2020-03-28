@@ -2,4 +2,5 @@ orange
 mango
 apple
 dragon fruit
+pear
 banana
