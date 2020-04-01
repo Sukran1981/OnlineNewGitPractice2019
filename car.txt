@@ -4,8 +4,6 @@ BMW 3
 BMW X6
 Audi R8
 Tesla
-<<<<<<< Updated upstream
 Mercedes 5500
-=======
 Kia Optima
->>>>>>> Stashed changes
+Range Rover Velar
