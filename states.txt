@@ -6,3 +6,6 @@ Texas
 California
 Pennsylvania
 Florida
+Ohio
+Arizona
+Kansas
